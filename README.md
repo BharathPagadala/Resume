@@ -2,7 +2,6 @@
 
 Creative Node.js Developer with 12+ years of strong experience in Operating Systems & Terminal, Machine Learning areas with willingness to learn and master Scrum & Agile and RDBMS & SQL. Blockchain expert.
 
-[>> Download Word, DOCX Version Now <<](https://www.fullstackresume.com/blog/node-js-developer-resume-sample)
 <table>
  <tr>
   <td>
@@ -18,7 +17,7 @@ Creative Node.js Developer with 12+ years of strong experience in Operating Syst
 
 ## CONTACTS
 
-* **Phone**: (997) 360-2706
+* **Phone**: 8247371595
 * **Email**: john11@gmail.com
 * LinkedIn: @john11
 * Github: @john11
